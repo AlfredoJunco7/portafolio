@@ -227,8 +227,9 @@ img{
     overflow: hidden;
 }
 .about__img img{
-    width: 150px;
-    border-radius: 50%;
+    width: 170px;
+    border-radius: 60%;
+    object-fit: cover;
 }
 .about__subtitle{
     font-size: var(--h2-font-size);
